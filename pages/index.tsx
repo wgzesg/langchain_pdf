@@ -27,7 +27,7 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Hi, what would you like to learn about this legal case?',
+        message: 'Hi, what would you like to ask about kubernetes?',
         type: 'apiMessage',
       },
     ],
